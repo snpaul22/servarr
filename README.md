@@ -5,7 +5,7 @@ Be sure to run these commands with ```sudo``` privileges if not root.
 
 1. Make sure ```git``` is installed first.
 ```
-apt install git
+apt install git -y
 ```
 
 2. Download the script repository.
